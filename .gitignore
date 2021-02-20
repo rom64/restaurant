@@ -92,5 +92,5 @@ Thumbs.db
 
 # track these plugins, and themes
 # add your own entries here
-!wp-content/plugins
-!wp-content/themes/neuron/
+!wp-content/plugins/
+!wp-content/themes/restauran/
