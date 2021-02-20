@@ -92,5 +92,7 @@ Thumbs.db
 
 # track these plugins, and themes
 # add your own entries here
-!wp-content/plugins/
+!wp-content/plugins/advanced-custom-fields/
+!wp-content/plugins/contact-form-7/
+!wp-content/plugins/gmap-embed/
 !wp-content/themes/restauran/
